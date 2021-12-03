@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int initialAccount = 100; // начальный счет
+        int initialAccount = 30000; // начальный счет
         int depositAmount = 1500; // сумма пополнения
 
         int bonus;
